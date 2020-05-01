@@ -19,7 +19,7 @@ The repositry is useful if you have a basic undertanding of how Python works and
 
 #### Installing Python 3
 Ubuntu/MacOS:
-sudo apt-get install python 3
+```sudo apt-get install python 3```
 
 #### Installing Libraries
 Clone and download the repositry
